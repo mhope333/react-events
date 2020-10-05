@@ -1,0 +1,15 @@
+.ui.button.purple {
+  background-color: rgb(100, 52, 128);
+  color: white;
+}
+.ui.modal>.header:not(.ui) {
+  font-size: 2.5rem;
+  background-color: rgb(100, 52, 128);
+  color: white;
+}
+.modalContent {
+  font-size: small;
+}
+.registerButton {
+  padding-bottom: 30px;
+}

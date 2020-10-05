@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Event component html should match snapshot 1`] = `
+<div
+  className="ui card"
+  onClick={[Function]}
+>
+  <div
+    className="content"
+  >
+    <img
+      alt="Icon"
+      className="ui mini right floated image ui rounded image"
+      src="trainingIcon.png"
+    />
+    <div
+      className="header"
+    >
+      eventName
+    </div>
+    <div
+      className="meta"
+    >
+      title
+    </div>
+    <div
+      className="description"
+    >
+      Start time: 
+      Mon, 27 Jul 2020 06:00:00
+    </div>
+  </div>
+  <div
+    className="extra content"
+  >
+    <button
+      className="ui left floated button purple"
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+    >
+      More Info
+    </button>
+    <button
+      className="ui basic icon right floated button"
+      onClick={[Function]}
+    >
+      <i
+        aria-hidden="true"
+        className="yellow star outline icon"
+        onClick={[Function]}
+      />
+    </button>
+  </div>
+</div>
+`;

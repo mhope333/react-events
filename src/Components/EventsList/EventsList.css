@@ -1,0 +1,48 @@
+.eventsList {
+  width: 85%;
+  padding: 10px;
+}
+.filters {
+  padding: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+.ui.container {
+  width: auto;
+}
+.ui.floated.header {
+  margin-right: 0.5em;
+  padding-top: 3px;
+  color: white;
+}
+.ui.left.floated.buttons {
+  padding-right: 10px;
+}
+.ui.divider {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.ui.fluid.card {
+  width: 85%;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  background-color: transparent;
+  box-shadow: none;
+}
+.cardContainer {
+  display: flex;
+  justify-content: center;
+  background-color : transparent;
+}
+.ui.cards {
+  margin: auto;
+  justify-content: center;
+  background-color : transparent;
+}
+.apiError {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}

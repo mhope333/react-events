@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Headers component html should match snapshot 1`] = `
+<div>
+  <h3
+    className="ui block header"
+  >
+    <i
+      aria-hidden="true"
+      className="lightning icon"
+      onClick={[Function]}
+    />
+    Paperstr
+  </h3>
+</div>
+`;

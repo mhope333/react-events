@@ -1,0 +1,14 @@
+.imageBackground {
+  background-image: url("./images/conference-stock-image.jpg");
+  background-size: cover;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+  top: 35px;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  overflow: auto;
+}
