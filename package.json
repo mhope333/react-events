@@ -1,7 +1,7 @@
 {
-  "name": "react-paperstr-events",
+  "name": "react-events",
   "version": "0.1.0",
-  "homepage": "http://mhope333.github.io/react-paperstr-events",
+  "homepage": "http://mhope333.github.io/react-events",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
