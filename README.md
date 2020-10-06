@@ -28,3 +28,6 @@ export REACT_APP_API_V2_PRIVATE_KEY="{private_key}"
 - For running production build locally: `export PUBLIC_URL=http://localhost:5000` or remove `hompage` field from `package.json`
 - Local dev: `export PUBLIC_URL=http://localhost:3000` (Not actually required for dev)
 
+#### TO DO: 
+- Refactor .css styling 
+- More test coverage
