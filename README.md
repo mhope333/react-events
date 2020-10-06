@@ -4,6 +4,8 @@
 
 ### Deploy to gh-pages
 - Run `npm run deploy`
+##### gh-pages info
+- The end of the `hompage` url in `package.json` should match the `Router basename` in `src/index.js`.
 
 ### Starting Locally
 
