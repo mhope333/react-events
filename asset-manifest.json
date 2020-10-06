@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "https://mhope333.github.io/static/css/main.b624c85d.chunk.css",
-    "main.js": "https://mhope333.github.io/static/js/main.95829252.chunk.js",
-    "main.js.map": "https://mhope333.github.io/static/js/main.95829252.chunk.js.map",
-    "runtime-main.js": "https://mhope333.github.io/static/js/runtime-main.36c6105d.js",
-    "runtime-main.js.map": "https://mhope333.github.io/static/js/runtime-main.36c6105d.js.map",
-    "static/js/2.37934857.chunk.js": "https://mhope333.github.io/static/js/2.37934857.chunk.js",
-    "static/js/2.37934857.chunk.js.map": "https://mhope333.github.io/static/js/2.37934857.chunk.js.map",
-    "index.html": "https://mhope333.github.io/index.html",
-    "precache-manifest.ceb24bf14972f91dc29080301924825b.js": "https://mhope333.github.io/precache-manifest.ceb24bf14972f91dc29080301924825b.js",
-    "service-worker.js": "https://mhope333.github.io/service-worker.js",
-    "static/css/main.b624c85d.chunk.css.map": "https://mhope333.github.io/static/css/main.b624c85d.chunk.css.map",
-    "static/js/2.37934857.chunk.js.LICENSE.txt": "https://mhope333.github.io/static/js/2.37934857.chunk.js.LICENSE.txt",
-    "static/media/App.css": "https://mhope333.github.io/static/media/conference-stock-image.ecaeec0f.jpg",
-    "static/media/marketingIcon.png": "https://mhope333.github.io/static/media/marketingIcon.9e582d12.png",
-    "static/media/seminarIcon.png": "https://mhope333.github.io/static/media/seminarIcon.7cc47bab.png"
+    "main.css": "/react-events/static/css/main.bc96744f.chunk.css",
+    "main.js": "/react-events/static/js/main.0815f0ac.chunk.js",
+    "main.js.map": "/react-events/static/js/main.0815f0ac.chunk.js.map",
+    "runtime-main.js": "/react-events/static/js/runtime-main.b39cfac6.js",
+    "runtime-main.js.map": "/react-events/static/js/runtime-main.b39cfac6.js.map",
+    "static/js/2.37934857.chunk.js": "/react-events/static/js/2.37934857.chunk.js",
+    "static/js/2.37934857.chunk.js.map": "/react-events/static/js/2.37934857.chunk.js.map",
+    "index.html": "/react-events/index.html",
+    "precache-manifest.bc016417329e33299dab8eab24252d00.js": "/react-events/precache-manifest.bc016417329e33299dab8eab24252d00.js",
+    "service-worker.js": "/react-events/service-worker.js",
+    "static/css/main.bc96744f.chunk.css.map": "/react-events/static/css/main.bc96744f.chunk.css.map",
+    "static/js/2.37934857.chunk.js.LICENSE.txt": "/react-events/static/js/2.37934857.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-events/static/media/conference-stock-image.ecaeec0f.jpg",
+    "static/media/marketingIcon.png": "/react-events/static/media/marketingIcon.9e582d12.png",
+    "static/media/seminarIcon.png": "/react-events/static/media/seminarIcon.7cc47bab.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.36c6105d.js",
+    "static/js/runtime-main.b39cfac6.js",
     "static/js/2.37934857.chunk.js",
-    "static/css/main.b624c85d.chunk.css",
-    "static/js/main.95829252.chunk.js"
+    "static/css/main.bc96744f.chunk.css",
+    "static/js/main.0815f0ac.chunk.js"
   ]
 }
