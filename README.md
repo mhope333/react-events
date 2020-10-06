@@ -23,7 +23,6 @@ export REACT_APP_API_V2_PUBLIC_KEY="{public_key}"
 export REACT_APP_API_V2_PRIVATE_KEY="{private_key}"
 ```
 ##### specific env vars:
-- When running for gh-pages: `export PUBLIC_URL=http://mhope333.github.io/react-events`
-- For running production build locally: `export PUBLIC_URL=http://localhost:5000`
+- For running production build locally: `export PUBLIC_URL=http://localhost:5000` or remove `hompage` field from `package.json`
 - Local dev: `export PUBLIC_URL=http://localhost:3000` (Not actually required for dev)
 

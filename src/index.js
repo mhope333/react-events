@@ -5,7 +5,7 @@ import './styles/styles.css'
 import {BrowserRouter as Router} from 'react-router-dom';
 
 ReactDOM.render(
-  <Router basename="">
+  <Router basename="/react-events/">
     <App/>
   </Router>,
   document.getElementById('root')
