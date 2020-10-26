@@ -15,7 +15,7 @@
      "enrollment_deadline_utc":1595624400,
      "canceling_deadline_utc":null,
      "editing_deadline_utc":null,
-     "timezone":"Europe/Helsinki",
+     "timezone":"Europe/London",
      "start_time":1595944800,
      "end_time":1595955600,
      "enrollment_open":1594684800,
@@ -55,9 +55,11 @@
         "fi"
      ],
      "name":{
+        "en":"Marketing event",
         "fi":"Markkinointitapahtuma"
      },
      "location":{
+        "en": "The Gherkin London",
         "fi":"Logomo"
      },
      "address":{

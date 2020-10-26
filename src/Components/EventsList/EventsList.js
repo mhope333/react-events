@@ -6,7 +6,7 @@ import './EventsList.css';
 import {cloneDeep} from 'lodash'
 import {apiData} from '../../api-services/data/index';
 
-// commented code is real old api logic
+// commented code is real, old api logic
 
 export default class EventsList extends Component {
 

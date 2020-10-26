@@ -15,7 +15,7 @@
      "enrollment_deadline_utc":1595538000,
      "canceling_deadline_utc":null,
      "editing_deadline_utc":null,
-     "timezone":"Europe/Helsinki",
+     "timezone":"Europe/London",
      "start_time":1595840400,
      "end_time":1595851200,
      "enrollment_open":1594684800,
@@ -111,7 +111,7 @@
      "enrollment_deadline_utc":1595624400,
      "canceling_deadline_utc":null,
      "editing_deadline_utc":null,
-     "timezone":"Europe/Helsinki",
+     "timezone":"Europe/London",
      "start_time":1595944800,
      "end_time":1595955600,
      "enrollment_open":1594684800,
@@ -151,9 +151,11 @@
         "fi"
      ],
      "name":{
+        "en":"Marketing event",
         "fi":"Markkinointitapahtuma"
      },
      "location":{
+        "en": "The Gherkin London",
         "fi":"Logomo"
      },
      "address":{
@@ -207,7 +209,7 @@
      "enrollment_deadline_utc":1595710800,
      "canceling_deadline_utc":null,
      "editing_deadline_utc":null,
-     "timezone":"Europe/Helsinki",
+     "timezone":"Europe/London",
      "start_time":1596013200,
      "end_time":1596024000,
      "enrollment_open":1594684800,
@@ -399,7 +401,7 @@
      "enrollment_deadline_utc":1595797200,
      "canceling_deadline_utc":null,
      "editing_deadline_utc":null,
-     "timezone":"Europe/Helsinki",
+     "timezone":"Europe/London",
      "start_time":1596121200,
      "end_time":1596128400,
      "enrollment_open":1594684800,
@@ -495,7 +497,7 @@
      "enrollment_deadline_utc":1595883600,
      "canceling_deadline_utc":null,
      "editing_deadline_utc":null,
-     "timezone":"Europe/Helsinki",
+     "timezone":"Europe/London",
      "start_time":1596186000,
      "end_time":1596196800,
      "enrollment_open":1594684800,
