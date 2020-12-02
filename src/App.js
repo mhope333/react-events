@@ -11,7 +11,7 @@ class App extends Component {
         <div>
             <Headers/>
             <div className="imageBackground">
-              <Header size='huge'>Paperstr Events</Header>
+              <Header size='huge'>MH Events</Header>
               <EventsList/>
             </div>
         </div>

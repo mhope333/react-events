@@ -2,7 +2,7 @@ import React from 'react'
 import trainingIcon from '../../images/trainingIcon.png';
 import marketingIcon from '../../images/marketingIcon.png';
 import seminarIcon from '../../images/seminarIcon.png';
-import {Button, Modal, Image, Header, Icon, Card} from 'semantic-ui-react'
+import {Button, Modal, Image, Header, Icon, Card} from 'semantic-ui-react';
 import './Event.css';
 
 function dateTimeConverter(unixTimestamp) {

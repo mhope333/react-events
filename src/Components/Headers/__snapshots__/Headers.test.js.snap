@@ -10,7 +10,7 @@ exports[`Headers component html should match snapshot 1`] = `
       className="lightning icon"
       onClick={[Function]}
     />
-    Paperstr
+    MH Events
   </h3>
 </div>
 `;

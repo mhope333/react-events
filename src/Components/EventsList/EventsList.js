@@ -2,11 +2,11 @@ import React, {Component} from 'react';
 import {Container, Button, Header, Card} from 'semantic-ui-react'
 import Event from '../Event/Event';
 import './EventsList.css';
-// import {lyyti_apiCall} from '../../api-services/eventsService'; 
+// import {apiCall} from '../../api-services/eventsService'; 
 import {cloneDeep} from 'lodash'
 import {apiData} from '../../api-services/data/index';
 
-// commented code is real, old api logic
+// commented code was real, api logic
 
 export default class EventsList extends Component {
 
@@ -21,7 +21,7 @@ export default class EventsList extends Component {
 
   getAllEvents() {
     this.setState({events: apiData.allApiData})
-    // lyyti_apiCall('events?as_array=1')
+    // apiCall('events?as_array=1')
     // .then(res => {
     //   this.setState({events: res})
     // })
@@ -42,7 +42,7 @@ export default class EventsList extends Component {
         '13338': apiData.trainingData
       }
       this.setState({events: categoryMap[categoryId]})
-      // lyyti_apiCall(`events?category=${categoryId}&as_array=1`)
+      // apiCall(`events?category=${categoryId}&as_array=1`)
       // .then(res => {
       //   this.setState({events: res})
       // })
@@ -67,7 +67,7 @@ export default class EventsList extends Component {
     //   'august': '1596240000-1598918400',
     //   'september-': '1598918400-'
     // }
-    // lyyti_apiCall(`events?start_time=${monthMap[month]}&as_array=1`)
+    // apiCall(`events?start_time=${monthMap[month]}&as_array=1`)
     // .then(res => {
     //   this.setState({events: res})
     // })

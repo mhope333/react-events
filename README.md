@@ -1,4 +1,4 @@
-## Paperstr Dummy App
+## React Dummy App
 
 - deployed to GH Pages here: https://mhope333.github.io/react-events/
 

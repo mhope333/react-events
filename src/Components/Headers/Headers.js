@@ -6,7 +6,7 @@ class Headers extends Component {
   render() {
   return <div>
     <Header as='h3' block>
-      <Icon name='lightning'/>Paperstr
+      <Icon name='lightning'/>MH Events
     </Header>
   </div>
   }
